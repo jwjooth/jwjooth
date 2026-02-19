@@ -11,10 +11,10 @@
 ## 🧠 About Me
 
 - 🎓 Informatics Engineering Student  
-- 💻 Focused on **Artificial Intelligence & Blockchain**
+- 💻 Focused on **Software Engineer & Development**
 - 🏗️ Building scalable backend systems & modern frontend apps
-- 📈 Passionate about long-term wealth building & crypto markets
-- 🏋️ Gym enthusiast (discipline > motivation)
+- 📈 Passionate about Tech, AI & Blockchain industry
+- 🏋️ Sports enthusiast (discipline > motivation)
 
 ---
 
@@ -39,9 +39,9 @@
 
 ```ts
 const future = {
-  focus: ["AI Engineering", "Blockchain Infrastructure", "Quantitative Finance"],
+  focus: ["Frontend Developer", "AI & Robotics Industry", "Quantitative Investor"],
   mindset: "Build long-term systems, not short-term hacks",
-  principle: "Consistency compounds."
+  principle: ""Compound interest is the eighth wonder of the world. He who understands it, earns it... he who doesn't, pays it (Albert Einstein)"
 }
 ```
 
@@ -50,8 +50,8 @@ const future = {
 ## 🚀 Vision
 
 - Build intelligent systems that scale.
-- Master technology.
-- Achieve financial freedom before 35.
+- Master Technology.
+- Combine Economy and Tech for the future.
 
 ---
 
