@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jowjo 👋</h1>
+<h3 align="center">
+🚀 Informatics Engineering Student | AI & Blockchain Enthusiast | Fullstack Developer
+</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**jwjooth/jwjooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Informatics Engineering Student  
+- 💻 Focused on **Artificial Intelligence & Blockchain**
+- 🏗️ Building scalable backend systems & modern frontend apps
+- 📈 Passionate about long-term wealth building & crypto markets
+- 🏋️ Gym enthusiast (discipline > motivation)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,java,python,postgres,mysql,docker,git,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jwjooth&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jwjooth&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Currently Exploring
+
+```ts
+const future = {
+  focus: ["AI Engineering", "Blockchain Infrastructure", "Quantitative Finance"],
+  mindset: "Build long-term systems, not short-term hacks",
+  principle: "Consistency compounds."
+}
+```
+
+---
+
+## 🚀 Vision
+
+- Build intelligent systems that scale.
+- Master technology.
+- Achieve financial freedom before 35.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
