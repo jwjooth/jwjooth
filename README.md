@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=220&section=header&text=Jordan%20Theovandy&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=48&desc=arch%20btw%20%7C%20neovim%20btw%20%7C%20cli%20%2F%20tui%20enjoyer&descSize=15&descAlignY=78&descColor=8b949e&fontFamily=monospace" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=220&section=header&text=jwjooth&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=48&desc=arch%20btw%20%7C%20neovim%20btw%20%7C%20cli%20%2F%20tui%20enjoyer&descSize=15&descAlignY=78&descColor=8b949e&fontFamily=monospace" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=hello%2C+friend.;+%24+whoami+%3E+jordan%2C+software+engineer;low-society.+simple+works.+no+bloat.;keyboard+%3E+mouse.+cli+%3E+gui.;i+run+arch+btw.)](https://git.io/typing-svg)
 
