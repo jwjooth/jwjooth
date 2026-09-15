@@ -25,12 +25,12 @@
 ```bash
 $ whoami && cat ./about.txt
 
-name:       jordan theovandy
-role:       software engineer / programmer
-base:       indonesia (GMT+7)
-focus:      typescript, javascript, react, next.js
-learning:   finance + tech
-creed:      low-society, simple works.
+name:       jwjooth
+role:       nerd software engineer
+base:       office (GMT+7)
+focus:      full stack developer
+learning:   devops + cyber security
+creed:      low-society, simple effiency.
             no bloat. no noise. just ship.
 ```
 
@@ -134,9 +134,9 @@ yazi / ranger         # files, vim-style
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jwjooth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&rank_icon=github" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=jwjooth&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwjooth&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jwjooth&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 
 <br/><br/>
 
@@ -144,7 +144,7 @@ yazi / ranger         # files, vim-style
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jwjooth&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=00ff41&point=00ff41&area=true&hide_border=true" />
+<img src="https://ghchart.rshah.org/00ff41/jwjooth" alt="jwjooth's github contribution chart" />
 
 </div>
 
@@ -168,14 +168,19 @@ yazi / ranger         # files, vim-style
 
 <br/><br/>
 
-```bash
-$ cat ~/.dotfiles | grep -i values
-# "Rejoice always, pray continually, give thanks in all circumstances;"
-# — 1 Thessalonians 5:16-18
+```ts
+// ~/.values.ts — compiled daily, no dependencies
+export const creed = {
+  rejoice: "always",
+  pray: "continually",
+  giveThanks: "in all circumstances", // 1 Thess 5:16-18
+} as const;
+
+// $ nvim ~/.values.ts && :w
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=70&section=footer&text=stay_low._keep_shipping.&fontSize=14&fontColor=00ff41&animation=fadeIn&fontAlignY=55&fontFamily=monospace"/>
 
-<sub>`root@fsociety:~#` respect to elliot, darlene & the glorious arch wiki</sub>
+<sub>`root@fsociety:~#` remove windows</sub>
 
 </div>
